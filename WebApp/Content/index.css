@@ -1,0 +1,85 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    overflow-y: scroll
+}
+
+.logo {
+    background-image: url(/Content/img/Logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain;
+    width: 5em;
+    height: 5.5em;
+    display: inline-block;
+    float: left;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.link {
+    float: right;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.mainTitle {
+    font-weight: bold;
+    color: #4B4B4B;
+    font-size: 2rem;
+    padding-bottom: 1rem;
+    float: left;
+}
+
+.hamburger {
+    background-image: url(/Content/img/hamburger.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain;
+    width: 24em;
+    height: 30em;
+    float: right;
+}
+
+.home {
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.foodPanel {
+    background-color: #f6f6f6;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.title {
+    font-weight: bold;
+    color: #4B4B4B;
+    font-size: 2rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+
+.marginCard {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.usersPanel {
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.btnSpace {
+    width: 100%;
+}

@@ -1,0 +1,30 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelTransportista.cshtml";
+}
+<script src="~/Scripts/Views/Flotillas.js"></script>
+<div class="jumbotron" style="background-color:#fff">
+    @Html.CtrlTable(viewName: "Flotillas", id: "tblFlotillas", title: "Mis Flotillas", columnsTitle: "Nombre,Cedula", ColumnsDataName: "Nombre,CedulaDueno", onSelectFunction: "BindFields", colorHeader: "red")
+</div>
+<div class="jumbotron" style="background-color:#fff; margin-top:3em;">
+    <form id="registro_flotilla">
+        <div class="row justify-content-center">
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                @Html.CtrlDisabledInput(viewName: "Flotillas", id: "inputNombre", label: "Código de la flotilla", placeholder: "", type: "number", columnDataName: "Id")
+                @Html.CtrlInput(viewName: "Flotillas", id: "inputNombre", label: "Nombre de la flotilla", placeholder: "", type: "text", columnDataName: "Nombre")
+            </div>
+        </div>
+    </form>
+    <div class="row justify-content-center" style="margin-top:3em">
+        <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+            @Html.CtrlButton(viewName: "Flotillas", id: "btnRegistrar", label: "Registrar", onClickFunction: "Registrar", style: "btn btn-primary spaceBtn")
+            @Html.CtrlButton(viewName: "Flotillas", id: "btnActualizar", label: "Actualizar", onClickFunction: "Actualizar", style: "btn btn-primary spaceBtn")
+            @Html.CtrlButton(viewName: "Flotillas", id: "btnEliminar", label: "Eliminar", onClickFunction: "Eliminar", style: "btn btn-primary spaceBtn")
+        </div>
+    </div>
+
+
+
+</div>
+
+

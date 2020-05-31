@@ -1,0 +1,18 @@
+﻿@using WebApp.Models.Helpers;
+<script src="~/Scripts/Views/Bitacora.js"></script>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<link href="~/Content/reset.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/theme.css" rel="stylesheet" />
+<link href="~/Content/styles.css" rel="stylesheet" />
+<script src="~/Content/Chart.min.js"></script>
+<script src="~/Scripts/Views/ControlActions.js"></script>
+
+@{
+    Layout = "~/Views/Shared/PanelAdmin.cshtml";
+}
+
+@Html.CtrlTable(viewName: "ListaBitacora", id: "tblBitacora", title: "Bitacora",
+    columnsTitle: "Usuario,Acción,Fecha Acción", ColumnsDataName: "Usuario,Accion,FechaAccion", onSelectFunction: "BindFields", colorHeader: "red")

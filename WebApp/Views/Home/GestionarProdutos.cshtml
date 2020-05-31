@@ -1,0 +1,80 @@
+﻿@using WebApp.Models.Helpers;
+
+@{
+    ViewBag.Title = "GestionarProdutos";
+    Layout = "~/Views/Shared/PanelAdmin.cshtml";
+}
+
+<script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script>
+<script src="~/Scripts/Views/ControlActions.js"></script>
+<script src="~/Scripts/Views/RegistroProducto.js"></script>
+<link href="~/Content/RegistroProducto.css" rel="stylesheet" />
+
+<h4 style="margin-top:2em; margin-bottom: 2em;">Gestionar produtos</h4>
+
+<div class="jumbotron infoCard" style="background-color: white; margin-top:2em;">
+    <h4 style="margin-top:1em; margin-bottom: 1em;">Lista de productos</h4>
+    <script>
+                function getProductData(btn) {
+                        var i = btn.id;
+
+                        var listaProductos = JSON.parse(sessionStorage.getItem('listaProductos'));
+                        sessionStorage.setItem('producto', JSON.stringify(listaProductos[i]));
+
+                        window.location.href = 'InicioComercio';
+                }
+                $(document).ready(function () {
+                        var user = JSON.parse(sessionStorage.getItem('usuario'));
+                        var comercio = JSON.parse(sessionStorage.getItem('comercio'));
+                        function createStringFromTemplate(template, variables) {
+                            return template.replace(new RegExp("\{([^\{]+)\}", "g"), function(_unused, varName){
+                                return variables[varName];
+                            });
+                        }
+
+                        let retrieveAllProducts = () => {
+                            var ctrlActions = new ControlActions();
+                            var ImageSource;
+                            var CommerceName;
+                            var ProductName;
+                            var Price;
+
+                            ctrlActions.GetToApi('producto', callback = (response) => {
+                                for (var i = 0; i < response.length; i++) {
+                                    sessionStorage.setItem('listaProductos', JSON.stringify(response));
+                                    var tmpProduct = response[i];
+
+                                    ImageSource = tmpProduct.Imagen;
+                                    ctrlActions.GetToApi('producto/' + tmpProduct.CedulaComercio, callback = (response) => {
+                                        CommerceName = response.NombreComercial;
+                                    }, errorFunction = () => {
+                                            console.log('No se encontro el comercio');
+                                    });
+                                    ProductName = tmpProduct.NombreProducto;
+                                    Price = tmpProduct.Precio;
+
+                                    function GetDynamicProducts() {
+                                        return createStringFromTemplate(
+                                            '@Html.CtrlCardProductoAdmin(viewName: "listaProductos", id: "{id}", ImageSource: "{ImageSource}", NombreComercio: "{CommerceName}", NombreProducto: "{ProductName}", PrecioProducto: "{Price}")',
+                                            {
+                                                ImageSource: ImageSource,
+                                                CommerceName: CommerceName,
+                                                ProductName: ProductName,
+                                                OnClickFunction: 'getProductData(this)',
+                                                Price: Price,
+                                                id: i
+                                            }
+                                        );
+                                    }
+                                    document.getElementById('listaProductos').insertAdjacentHTML("afterend",GetDynamicProducts());
+                                }
+                            }, errorFunction = () => {
+                                    console.log('error');
+                            });
+                        }
+                        retrieveAllProducts();
+                    });
+    </script>
+    <div id="listaProductos"></div>
+    //
+</div>

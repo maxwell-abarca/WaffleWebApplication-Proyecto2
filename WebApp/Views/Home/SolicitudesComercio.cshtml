@@ -1,0 +1,69 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelAdmin.cshtml";
+}
+<script src="~/Scripts/Views/SolicitudesComercio.js"></script>
+
+<div class="container">
+    <div class="jumbotron" style="background-color:#fff">
+        @Html.CtrlTable(viewName: "SolicitudesComercio", id: "tblComercio", title: "Solicitudes Comercios", columnsTitle: "Cédula Juridica,Cedula Dueño,Nombre Comercial,Estado",ColumnsDataName: "CedulaJuridica,CedulaDueno,NombreComercial,Estado",onSelectFunction: "BindFields",colorHeader: "red")
+    </div>
+</div>
+<div class="jumbotron infoCard">
+    <div class="row ">
+        <div style="margin-top: 5px;">
+            <h1 class="registro">Información del Comercio</h1>
+
+            <form id="gestion_comercio">
+                <div class="row">
+                    @*<div class="col">
+                        <img src="" class="profilePhoto" id="profilePhoto">
+                    </div>*@
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtCedulaJuridica", label: "Cedula Juridica", placeholder: "", type: "text", columnDataName: "CedulaJuridica")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtCedulaDueno", label: "Cedula Dueño", placeholder: "", type: "text", columnDataName: "CedulaDueno")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtIdCategoria", label: "Categoria", placeholder: "", type: "text", columnDataName: "IdCategoria")
+                       </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtNombreComercial", label: "Nombre Comercial", placeholder: "", type: "text", columnDataName: "NombreComercial")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtDireccionEscrita", label: "Dirección", placeholder: "", type: "text", columnDataName: "DireccionEscrita")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtHoraApertura", label: "Hora Apertura", placeholder: "", type: "text", columnDataName: "HoraApertura")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtHoraCierre", label: "Hora Cierre", placeholder: "", type: "text", columnDataName: "HoraCierre")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "dateFechaCreacion", label: "Fecha Creación", placeholder: "", type: "text", columnDataName: "FechaCreacion")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtEstado", label: "Estado", placeholder: "", type: "text", columnDataName: "Estado")
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="border-top my-5"></div>
+        <div style="margin-top: 5px;">
+            <h1 class="registro">Registrar Membresia</h1>
+
+            <form id="gestion_comercio">
+                <div class="row">
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtIdMembresia", label: "Codigo Membresia", placeholder: "", type: "number", columnDataName: "IdMembresia")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtCedulaUJuridica", label: "Cedula Comercio", placeholder: "", type: "number", columnDataName: "CedulaJuridica")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtCedulaDueno", label: "Cedula Dueño", placeholder: "", type: "text", columnDataName: "CedulaDueno")
+                       </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtCostoMembresia", label: "Costo Membresia", placeholder: "", type: "number", columnDataName: "MontoMembresia")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtFechaEmitida", label: "Fecha Aprobación", placeholder: "", type: "date", columnDataName: "FechaAprobacion")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtFechaExpiracion", label: "Fecha Expiración", placeholder: "", type: "date", columnDataName: "FechaExpiracion")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtTarifaBase", label: "Comisión", placeholder: "", type: "number", columnDataName: "Comision")
+                        @Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtImpuesto", label: "Impuesto", placeholder: "", type: "number", columnDataName: "Impuesto")
+                        @*@Html.CtrlInput(viewName: "SolicitudesComercio", id: "txtCorreo", label: "Correo", placeholder: "", type: "text", columnDataName: "Correo")*@
+                    </div>
+                    <div class="col">
+                        @Html.CtrlButton(viewName: "SolicitudesComercio", id: "btnRegistro", label: "Aprobar", onClickFunction: "Create", style: "btn btn-primary spaceBtn")
+                        @Html.CtrlButton(viewName: "SolicitudesComercio", id: "btnUpd", label: "Rechazar", onClickFunction: "Update", style: "btn btn-primary spaceBtn")
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

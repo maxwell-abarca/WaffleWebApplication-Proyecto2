@@ -1,0 +1,15 @@
+
+Log Entry : 11:41:45 viernes, 13 de diciembre de 2019
+  :
+  :Se produjo una excepción de tipo 'Exceptions.BussinessException'.
+-------------------------------
+
+Log Entry : 11:42:38 viernes, 13 de diciembre de 2019
+  :
+  :Se produjo una excepción de tipo 'Exceptions.BussinessException'.
+-------------------------------
+
+Log Entry : 11:45:28 viernes, 13 de diciembre de 2019
+  :
+  :Se produjo una excepción de tipo 'Exceptions.BussinessException'.
+-------------------------------

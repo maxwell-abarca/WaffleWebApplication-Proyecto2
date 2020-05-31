@@ -1,0 +1,58 @@
+﻿@using WebApp.Models.Helpers;
+
+<html>
+<head>
+    <title>Registro de vehículo</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/theme.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/registroUsuario.css" rel="stylesheet" />
+    <script src="~/Scripts/Views/RegistroVehiculo.js"></script>
+    <script src="~/Scripts/Views/ControlActions.js"></script>
+</head>
+<body>
+    <style>
+        button {
+            float: right;
+            margin-top: 15px;
+            margin-right: 2em;
+        }
+    </style>
+    <div class="container">
+        <div class="row align-items-center" style="height:10vh">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="logo"></div>
+            </div>
+        </div>
+
+        <form id="registro_vehiculo">
+            <div class="row justify-content-between align-items-center" style="height:80vh">
+
+                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+
+                </div>
+
+
+                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                    @Html.CtrlInput(viewName: "RegistroVehiculo", id: "inputFlotilla", label: "Nombre de la flotilla", placeholder: "", type: "text", columnDataName: "")
+                    @Html.CtrlInput(viewName: "RegistroVehiculo", id: "inputPlaca", label: "Placa", placeholder: "", type: "text", columnDataName: "Placa")
+                    @Html.CtrlInput(viewName: "RegistroVehiculo", id: "inputMarca", label: "Marca", placeholder: "", type: "text", columnDataName: "Marca")
+                    @Html.CtrlInput(viewName: "RegistroVehiculo", id: "inputModelo", label: "Modelo", placeholder: "", type: "text", columnDataName: "Modelo")
+                    @Html.CtrlSelect(viewName: "RegistroVehiculo", id: "selectTipo", label: "Tipo de vehículo")
+                    @Html.CtrlButton(viewName: "RegistroVehiculo", id: "btnRegistro", label: "Registrar", onClickFunction: "Registrar", style: "btn btn-primary spaceBtn")
+
+                </div>
+                <div class="col-xs-4 col-sm-1 col-md-4 col-lg-4">
+
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+</body>
+</html>

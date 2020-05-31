@@ -1,0 +1,53 @@
+﻿@using WebApp.Models.Helpers;
+<html>
+<head>
+    <title>Agrega tu dirección</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/theme.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/registroUsuario.css" rel="stylesheet" />
+    <script src="~/Scripts/Views/ControlActions.js"></script>
+</head>
+<body>
+    <div id="contenedor">
+
+    </div>
+
+    <script>
+        function GetMembresiaData(btn) {
+
+        }
+        $(document).ready(function () {
+            var obj = JSON.parse(sessionStorage.getItem('usuario'));
+            function createStringFromTemplate(template, variables) {
+                return template.replace(new RegExp("\{([^\{]+)\}", "g"), function (_unused, varName) {
+                    return variables[varName];
+                });
+            }
+            let RetrieveAllMembresias = () => {
+                var ctrlActions = new ControlActions();
+                var NombreMembresia;
+                var Descripcion;
+                var Precio;
+
+
+                ctrlActions.GetToApi('Membresia', callback = (response) => {
+                    for (var i = 0; i < response.length; i++) {
+                        sessionStorage.setItem('membresias', JSON.stringify(response));
+                        var tmpMembership = response[i];
+                        NombreMembresia = tmpMembership.
+
+                            }
+                })
+            }
+        })
+
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿@using WebApp.Models.Helpers;
+<script src="~/Scripts/Views/vProducto.js"></script>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<link href="~/Content/reset.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="~/Content/theme.css" rel="stylesheet" />
+<link href="~/Content/styles.css" rel="stylesheet" />
+<script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script>
+<script src="~/Content/Chart.min.js"></script>
+<script src="~/Scripts/Views/ControlActions.js"></script>
+<link href="~/Content/RegistroProducto.css" rel="stylesheet" />
+
+@{
+    Layout = "~/Views/Shared/PanelComercio.cshtml";
+}
+@Html.ActionLink("Registrar nuevo producto", "vRegistroProducto", "Home", new { @class = "btn btn-link link" })
+
+@Html.CtrlTable(viewName: "vProducto", id: "tblProducto", title: "Producto",
+        columnsTitle: "IdProducto,NombreProducto,IdCategoria,Precio,Imagen,IdComercio,Estado", ColumnsDataName: "IdProducto,NombreProducto,IdCategoria,Precio,Imagen,IdComercio,Estado", onSelectFunction: "BindFields", colorHeader: "red")
+
+<div class="card-body">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="bs-component">
+                <form id="frmRegistro">
+                    <div class="float-left">
+                        @Html.CtrlInput(viewName: "vProducto", id: "txtIdProducto", label: "IdProducto", placeholder: "Ingrese el codigo", type: "text", columnDataName: "IdProducto")
+                        @Html.CtrlInput(viewName: "vProducto", id: "txtEstado", label: "Estado", placeholder: "Ingrese el estado", type: "text", columnDataName: "Estado")
+                        @Html.CtrlButton(viewName: "vProducto", id: "btnModificar", label: "Cambiar estado", onClickFunction: "Update", style: "btn btn-primary")
+                        @Html.CtrlButton(viewName: "vProducto", id: "btnEliminar", label: "Eliminar Producto", onClickFunction: "Delete", style: "btn btn-primary")
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@Html.CtrlCardProductoModel(viewName: "Prueba", id: "id", imageSource: "https://res.cloudinary.com/drlznypvr/image/upload/v1574233973/memnbjj99af7tyc7hieg.png", nombreProducto: "Pizza", nombreComercio: "Pizza Hut", precio: 20000)
+
+<div class="lista_productos" id="ListaProducto">
+
+</div>
+

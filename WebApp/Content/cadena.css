@@ -1,0 +1,29 @@
+﻿.profilePhoto {
+    display: block;
+    width: 16em;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.btnSpace {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+
+@media (max-width: 1148px) {
+    .profilePhoto {
+        display: block;
+        width: 10em;
+        border-radius: 50%;
+        margin: 0 auto;
+    }
+
+    .btnQuery {
+        display: block;
+        margin: 0 auto;
+        margin-top: 2em;
+        margin-bottom: 1.5em;
+    }
+}

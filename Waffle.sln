@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{4B74DA53-9E59-45D0-A8F5-85E6785D4586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D2DCFEDC-54A0-418F-90BA-07AF4C9A2E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{8C10923C-7598-4168-8E38-E535098CE610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI", "CoreAPI\CoreAPI.csproj", "{E1508689-AF2C-4A13-A0FC-42BBA3AB68F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{4AE0374F-C83F-4D93-B8C2-32A0079F7EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{15AEE2AC-58B8-4C90-9938-19D970846E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B74DA53-9E59-45D0-A8F5-85E6785D4586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B74DA53-9E59-45D0-A8F5-85E6785D4586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B74DA53-9E59-45D0-A8F5-85E6785D4586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B74DA53-9E59-45D0-A8F5-85E6785D4586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DCFEDC-54A0-418F-90BA-07AF4C9A2E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DCFEDC-54A0-418F-90BA-07AF4C9A2E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DCFEDC-54A0-418F-90BA-07AF4C9A2E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DCFEDC-54A0-418F-90BA-07AF4C9A2E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C10923C-7598-4168-8E38-E535098CE610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C10923C-7598-4168-8E38-E535098CE610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C10923C-7598-4168-8E38-E535098CE610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C10923C-7598-4168-8E38-E535098CE610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1508689-AF2C-4A13-A0FC-42BBA3AB68F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1508689-AF2C-4A13-A0FC-42BBA3AB68F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1508689-AF2C-4A13-A0FC-42BBA3AB68F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1508689-AF2C-4A13-A0FC-42BBA3AB68F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE0374F-C83F-4D93-B8C2-32A0079F7EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE0374F-C83F-4D93-B8C2-32A0079F7EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE0374F-C83F-4D93-B8C2-32A0079F7EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE0374F-C83F-4D93-B8C2-32A0079F7EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AEE2AC-58B8-4C90-9938-19D970846E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AEE2AC-58B8-4C90-9938-19D970846E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AEE2AC-58B8-4C90-9938-19D970846E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AEE2AC-58B8-4C90-9938-19D970846E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB7B2EBE-A582-4F2A-9F6B-F6F31CE1F3E5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/cenfococos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CoreAPI\\CoreAPI.csproj
+		SccProjectName1 = CoreAPI
+		SccLocalPath1 = CoreAPI
+		SccProjectUniqueName2 = DataAccess\\DataAccess.csproj
+		SccProjectName2 = DataAccess
+		SccLocalPath2 = DataAccess
+		SccProjectUniqueName3 = Entities\\Entities.csproj
+		SccProjectName3 = Entities
+		SccLocalPath3 = Entities
+		SccProjectUniqueName4 = Exceptions\\Exceptions.csproj
+		SccProjectName4 = Exceptions
+		SccLocalPath4 = Exceptions
+		SccProjectUniqueName5 = WebAPI\\WebAPI.csproj
+		SccProjectName5 = WebAPI
+		SccLocalPath5 = WebAPI
+		SccProjectUniqueName6 = WebApp\\WebApp.csproj
+		SccProjectName6 = WebApp
+		SccLocalPath6 = WebApp
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,163 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelAdmin.cshtml";
+}
+<script src="~/Scripts/Views/SolicitudesTransportista.js"></script>
+
+@*<script>
+                    function getTransportistasData(btn) {
+                            var t = btn.id;
+
+                            var listaTransportistas = JSON.parse(sessionStorage.getItem('listaTransportistas'));
+                            sessionStorage.setItem('transportista', JSON.stringify(listaTransportistas[t]));
+
+                    }
+                    $(document).ready(function () {
+                            var user = JSON.parse(sessionStorage.getItem('usuario'));
+                            function createStringFromTemplate(template, variables) {
+                                return template.replace(new RegExp("\{([^\{]+)\}", "g"), function(_unused, varName){
+                                    return variables[varName];
+                                });
+                            }
+
+                            let retrieveAll = () => {
+                                var ctrlActions = new ControlActions();
+                                var ImageSource;
+                                var Name;
+                                var Identification;
+                                var Status;
+                                var Label;
+
+
+                                ctrlActions.GetToApi('usuario/?IdRol=' + 2, callback = (response) => {
+                                    for (var i = 0; i < response.length; i++) {
+                                        sessionStorage.setItem('listaTransportistas', JSON.stringify(response));
+                                        var tmpTransportista = response[i];
+
+                                        ImageSource = tmpTransportista.FotoPerfil;
+                                        Name = tmpTransportista.Nombre + ' ' + tmpTransportista.PrimerApellido + ' ' + tmpTransportista.SegundoApellido;
+                                        Identification = tmpTransportista.Cedula;
+                                        Status = tmpTransportista.Estado;
+                                        Label = 'Aceptar';
+
+                                        function GetDynamicProducts() {
+                                            return createStringFromTemplate(
+                                                '@Html.CtrlCardTransportista(viewName: "listaTransportistas", id: "{id}", ImageSource: "{ImageSource}", Name: "{Name}", Identification: "{Identification}", Status: "{Status}", OnClick: "getTransportistasData(this)", Label: "{Label}")',
+                                                {
+                                                    ImageSource: ImageSource,
+                                                    Name: Name,
+                                                    Identification: Identification,
+                                                    Status: Status,
+                                                    id: i,
+                                                    Label: Label
+                                                }
+                                            );
+                                        }
+                                        document.getElementById('listaTransportistas').insertAdjacentHTML("afterend",GetDynamicProducts());
+                                    }
+                                }, errorFunction = () => {
+                                        console.log('error');
+                                });
+                            }
+                            retrieveAll();
+                        });
+    </script>
+
+    <div id="listaTransportistas"></div>
+
+    <div class="row justify-content-center align-content-center infoCard" style="min-height: 7em;margin: 1em;border-radius: .5em;">
+        <div class="col-sm-2 col-sm-2 col-md-2 col-lg-2 align-self-center">
+            <img src="https://res.cloudinary.com/drlznypvr/image/upload/v1574586105/user-profile_dw7kau.svg" style="display: block;width: 5em;height: 5em;border-radius: 50%;object-fit: contain;margin: 0 auto; margin-top: 1em;margin-bottom: 1em;" />
+        </div>
+
+        <div class="col-sm-4 col-sm-4 col-md-4 col-lg-4 align-self-center">
+            <div style="">
+                <p style="margin: .5rem;text-align: center;">Nombre: Bla blaaaa</p>
+                <p style="margin: .5rem;text-align: center;">Cédula: 208010159</p>
+            </div>
+        </div>
+        <div class="col-sm-3 col-sm-3 col-md-3 col-lg-3 align-self-center">
+            <div style="">
+                <p style="margin: .5rem;text-align: center;">Correo: Bla blaaaa</p>
+                <p style="margin: .5rem;text-align: center;">Teléfono: 208010159</p>
+            </div>
+        </div>
+        <div class="col-sm-3 col-sm-3 col-md-3 col-lg-3 align-self-center">
+            <div style="display:flex" class="justify-content-center">
+                <button type="button" id="" class="btn " onclick="" style="color: #2ecc71;margin-top: 1em;margin-bottom: 1em;"><i class="fas fa-check"></i></button>
+                <button type="button" id="" class="btn " onclick="" style="color: #EF5455;margin-top: 1em;margin-bottom: 1em;"><i class="fas fa-times"></i></button>
+            </div>
+        </div>
+    </div>*@
+
+<div class="container">
+    <div class="jumbotron" style="background-color:#fff">
+        @Html.CtrlTable(viewName: "SolicitudesTransportista", id: "tblTransportistas", title: "Solicitudes Transportistas",
+        columnsTitle: "Cédula,Nombre,Primer Apellido,Correo,Teléfono,Estado,Tipo de Identificación",
+        ColumnsDataName: "Cedula,Nombre,PrimerApellido,Correo,Telefono,Estado,TipoIdentificacion",
+        onSelectFunction: "BindFields",
+        colorHeader: "red")
+    </div>
+</div>
+<div class="jumbotron infoCard">
+    <div class="row ">
+        <div style="margin-top: 5px;">
+            <h1 class="registro">Información del transportista</h1>
+
+            <form id="gestion_transportista">
+                <div class="row">
+                    <div class="col">
+                        <img src="" class="profilePhoto" id="profilePhoto">
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtNombre", label: "Nombre", placeholder: "", type: "text", columnDataName: "Nombre")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtPrimerApellido", label: "Primer apellido", placeholder: "", type: "text", columnDataName: "PrimerApellido")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtSegundoApellido", label: "Segundo apellido", placeholder: "", type: "text", columnDataName: "SegundoApellido")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtCedulaUsuario", label: "Cedula Usuario", placeholder: "", type: "number", columnDataName: "Cedula")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtCorreo", label: "Correo", placeholder: "", type: "text", columnDataName: "Correo")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtTelefono", label: "Teléfono", placeholder: "", type: "text", columnDataName: "Telefono")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "dateFechaNacimiento", label: "Fecha de nacimiento", placeholder: "", type: "text", columnDataName: "FechaNacimiento")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtTipoVehiculo", label: "Tipo de vehiculo", placeholder: "", type: "text", columnDataName: "TipoVehiculo")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtAmigable", label: "Eco amigable", placeholder: "", type: "text", columnDataName: "EcoAmigable")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtPlaca", label: "Placa", placeholder: "", type: "text", columnDataName: "Placa")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtLatitud", label: "Latitud", placeholder: "", type: "number", columnDataName: "Latitud")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtLongitud", label: "Longitud", placeholder: "", type: "number", columnDataName: "Longitud")
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="border-top my-5"></div>
+        <div style="margin-top: 5px;">
+            <h1 class="registro">Registrar Membresia</h1>
+
+            <form id="gestion_transportista">
+                <div class="row" id="frmRegistro">
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtIdMembresia", label: "Codigo Membresia", placeholder: "", type: "number", columnDataName: "IdMembresia")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtCedulaUsuario", label: "Cedula Usuario", placeholder: "", type: "number", columnDataName: "Cedula")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtCostoMembresia", label: "Costo Membresia", placeholder: "", type: "number", columnDataName: "MontoMembresia")
+                    </div>
+                    <div class="col">
+
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtFechaEmitida", label: "Fecha Aprobación", placeholder: "", type: "date", columnDataName: "FechaAprobacion")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtFechaExpiracion", label: "Fecha Expiración", placeholder: "", type: "date", columnDataName: "FechaExpiracion")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtTarifaBase", label: "Tarifa Base", placeholder: "", type: "number", columnDataName: "ComisionBase")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtMontoKilometraje", label: "Monto por kilometraje", placeholder: "", type: "number", columnDataName: "MontoKilometraje")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtImpuesto", label: "Impuesto", placeholder: "", type: "number", columnDataName: "Impuesto")
+                        @Html.CtrlInput(viewName: "SolicitudesTransportista", id: "txtCorreo", label: "Correo", placeholder: "", type: "text", columnDataName: "Correo")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlButton(viewName: "SolicitudesTransportista", id: "btnRegistro", label: "Aprobar", onClickFunction: "Create", style: "btn btn-primary spaceBtn")
+                        @Html.CtrlButton(viewName: "SolicitudesTransportista", id: "btnUpd", label: "Rechazar", onClickFunction: "Update", style: "btn btn-primary spaceBtn")
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

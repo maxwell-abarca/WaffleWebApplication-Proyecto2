@@ -1,0 +1,155 @@
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\bin\Debug\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\bin\Debug\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\bin\Debug\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\bin\Debug\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\CoreAPI.dll.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\DataAccess.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Entities.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\SendGrid.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Twilio.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\DataAccess.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Entities.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\SendGrid.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\SendGrid.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\bin\Debug\Twilio.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\CoreAPI\obj\Debug\CoreAPI.pdb

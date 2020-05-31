@@ -1,0 +1,49 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    overflow-y: scroll
+}
+
+.logo {
+    background-image: url(/Content/img/Logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain;
+    width: 6em;
+    height: 5.5em;
+    display: inline-block;
+    float: left;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.centerBtn {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+
+.errorMessage {
+    max-width: 20em;
+    color: #EF5455;
+    display: none;
+}
+
+.errorMessageEmail {
+    max-width: 20em;
+    color: #EF5455;
+    display: none;
+}
+
+#firstDiv {
+    
+}
+
+#secondDiv {
+    display: none;
+}

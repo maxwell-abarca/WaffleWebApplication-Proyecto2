@@ -1,0 +1,26 @@
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\bin\Debug\Entities.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\DataAccess\obj\Debug\DataAccess.pdb

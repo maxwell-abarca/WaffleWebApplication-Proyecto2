@@ -1,0 +1,45 @@
+﻿.btnSpace {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+
+@media (max-width: 1148px) {
+    .btnQuery {
+        display: block;
+        margin: 0 auto;
+        margin-top: 2em;
+        margin-bottom: 1.5em;
+    }
+}
+
+.profilePhoto {
+    display: block;
+    width: 16em;
+    height: 16em;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.document {
+    display: block;
+    width: 6em;
+    height: 6em;
+    object-fit: cover;
+}
+
+.btnCommercePanel {
+    display: inline-block;
+    width: 9em;
+}
+
+#commercePhoto {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+    padding: 1em;
+}

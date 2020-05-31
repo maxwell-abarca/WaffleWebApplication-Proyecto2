@@ -1,0 +1,37 @@
+﻿.profilePhoto {
+    display: block;
+    width: 16em;
+    height: 16em;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.btnSpace {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+
+@media (max-width: 1148px) {
+    .profilePhoto {
+        display: block;
+        width: 10em;
+        height: 10em;
+        border-radius: 50%;
+        margin: 0 auto;
+        object-fit: cover;
+    }
+}
+
+.errorMessage {
+    max-width: 20em;
+    color: #EF5455;
+    display: none;
+}
+
+.successMessage {
+    max-width: 20em;
+    color: #2ecc71;
+    display: none;
+}

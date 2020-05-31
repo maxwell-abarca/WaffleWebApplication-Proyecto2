@@ -1,0 +1,74 @@
+﻿@using WebApp.Models.Helpers
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Registro de Categorias</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/theme.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <script src="~/Scripts/Views/ControlActions.js"></script>"
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="#">Waffle</a>
+
+
+    </nav>
+    <div class="container">
+        <style>
+            .my-col {
+                margin-top: 50px;
+            }
+
+
+            .row {
+                margin-top: 50px;
+                margin-left: 50px;
+            }
+
+            .button-row {
+                margin-top: 40px;
+                margin-left: 100px;
+            }
+
+            .formulario {
+                margin-left: 50%;
+            }
+        </style>
+        <form id="registro_categoria">
+            <div class="row" id="formulario">
+
+                <div class="col">
+                    @Html.CtrlInput(viewName: "vRegistroCategoria", id: "txt_nombre", label: "Nombre", placeholder: "ejemplo: Vegetariana", type: "text", columnDataName: "Nombre")
+                    <input id="txt_contrasena_2" class="form-control" type="password" placeholder="Ingrese su contraseña de nuevo" />
+
+                    <div class="row button-row">
+                        @Html.CtrlButton(viewName: "vRegistroCategoria", id: "btnRegistrar", label: "Registrar", onClickFunction: "Registrar", style: "btn btn-primary spaceBtn")
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+    <div>
+        @Html.CtrlTable(viewName: "vCategoria", id: "tblCategorias", title: "Categorias",
+            columnsTitle: "Id,Nombre", ColumnsDataName: "Id,Nombre",
+            onClickFunction: "BindFields", colorHeader: "yellow")
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

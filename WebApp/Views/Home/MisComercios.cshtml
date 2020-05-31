@@ -1,0 +1,138 @@
+﻿@using WebApp.Models.Helpers;
+
+@{
+    ViewBag.Title = "MisComercios";
+    Layout = "~/Views/Shared/PanelDuenoComercio.cshtml";
+}
+
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyDPjdm_vvORmMhPsDkI3lgIHdgkNqtuvrg"></script>
+<script src="~/Scripts/gmaps.js"></script>
+<script src="~/Scripts/Views/ControlActions.js"></script>
+
+<script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script>
+<link href="~/Content/misComercios.css" rel="stylesheet" />
+
+<h4 style="margin-top:2em; margin-bottom: 2em;">Mis comercios</h4>
+
+<div class="jumbotron infoCard">
+
+    <button class="btn btn-link link" type="button" data-toggle="collapse" data-target="#collapseRegistro" aria-expanded="false" aria-controls="collapseExample" style="color:#F1C40f">
+        Agregar comercio
+    </button>
+    <div class="card card-body collapse" id="collapseRegistro" style="background-color: white; margin-top:2em;">
+        <form class="">
+            <div class="row justify-content-center align-content-center" id="first">
+
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputCedulaJuridica", label: "Cédula jurídica", placeholder: "", type: "number", columnDataName: "")
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputNombreComercio", label: "Nombre comercial", placeholder: "", type: "text", columnDataName: "")
+                    @Html.CtrlSelect(viewName: "registroComercio", id: "selectCadena", label: "Cadena")
+                    @Html.CtrlSelect(viewName: "registroComercio", id: "selectCategoria", label: "Categoría")
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputTelefono", label: "Teléfono", placeholder: "", type: "text", columnDataName: "")
+                </div>
+
+
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    <img id="comercioImagen" src="https://res.cloudinary.com/drlznypvr/image/upload/v1575513651/comercioImagen_ps8hse.png" class="profilePhoto" />
+                    @Html.CtrlButton(viewName: "registroComercio", id: "btnImagen", label: "Subir imagen", onClickFunction: "showWidget", style: "btn btn-link link btnSpace")
+                    @Html.CtrlButton(viewName: "registroComercio", id: "btnSiguiente", label: "Siguiente", onClickFunction: "next", style: "btn btn-primary btnSpace")
+                </div>
+            </div>
+
+            <div class="row justify-content-center align-content-center" id="second" style="display:none">
+
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputHoraApertura", label: "Hora de apertura", placeholder: "", type: "time", columnDataName: "")
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputHoraCierre", label: "Hora de cierre", placeholder: "", type: "time", columnDataName: "")
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputFecha", label: "Fecha de creación", placeholder: "", type: "date", columnDataName: "")
+
+                    <p>Regimen</p>
+                    <img id="regimen" src="https://res.cloudinary.com/drlznypvr/image/upload/v1575516283/undraw_add_file2_gvbb_z9rm3o.png" class="document" />
+                    @Html.CtrlButton(viewName: "registroComercio", id: "btnCargarRegimen", label: "Subir documento", onClickFunction: "showWidget", style: "btn btn-link link")
+                </div>
+
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    @Html.CtrlInput(viewName: "registroComercio", id: "inputUbicacionEscrita", label: "Ubicación escrita", placeholder: "", type: "text", columnDataName: "")
+                    @Html.CtrlButton(viewName: "registroComercio", id: "btnRegistrar", label: "Registrar", onClickFunction: "newComercio", style: "btn btn-primary btnSpace")
+                    @Html.CtrlMap("registroComercio", "map", "mapForm")
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+</div>
+
+<div class="card card-body" style="background-color: white; margin-top:2em;">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <script>
+                function getComercioData(btn) {
+                        var comercio = btn.id;
+                            
+                        var listaComercios = JSON.parse(sessionStorage.getItem('listaComercios'));
+                        sessionStorage.setItem('comercio', JSON.stringify(listaComercios[comercio]));
+
+                        window.location.href = 'InicioComercio';
+                }
+                $(document).ready(function () {
+                        var user = JSON.parse(sessionStorage.getItem('usuario'));
+                        function createStringFromTemplate(template, variables) {
+                            return template.replace(new RegExp("\{([^\{]+)\}", "g"), function(_unused, varName){
+                                return variables[varName];
+                            });
+                        }
+
+                        let retrieveAllCommerce = () => {
+                            var ctrlActions = new ControlActions();
+                            var ImageSource;
+                            var NombreComercio;
+                            var DireccionEscrita;
+
+                            ctrlActions.GetToApi('Comercio/?cedula=' + user.Cedula, callback = (response) => {
+                                for (var i = 0; i < response.length; i++) {
+                                    sessionStorage.setItem('listaComercios', JSON.stringify(response));
+                                    var tmpCommerce = response[i];
+
+                                    ImageSource = tmpCommerce.Foto;
+                                    NombreComercio = tmpCommerce.NombreComercial;
+                                    DireccionEscrita = tmpCommerce.DireccionEscrita;
+
+                                    function GetDynamicCommerce() {
+                                        return createStringFromTemplate(
+                                            '@Html.CtrlCardComercio(viewName: "listaComercio", id: "{id}", ImageSource: "{ImageSource}", NombreComercio: "{NombreComercio}", DireccionEscrita: "{DireccionEscrita}", OnClickFunction: "{OnClickFunction}", ComercioData: "{Commerce}")',
+                                            {
+                                                ImageSource: ImageSource,
+                                                NombreComercio: NombreComercio,
+                                                DireccionEscrita: DireccionEscrita,
+                                                OnClickFunction: 'getComercioData(this)',
+                                                Commerce: tmpCommerce,
+                                                id: i
+                                            }
+                                        );
+                                    }
+
+                                    var listCommerce = () => {
+                                        document.getElementById('listaComercios').insertAdjacentHTML("afterend",GetDynamicCommerce());
+/*                                        var card = document.createElement('div');
+                                        card.innerHTML = GetDynamicCommerce()
+                                        document.getElementById('listaComercios').appendChild(card);*/
+                                    }
+                                    listCommerce();
+                                }
+                            });
+                        }
+                        retrieveAllCommerce();
+                    });
+            </script>
+            <div id="listaComercios">
+                <h4 style="margin-top:1em; margin-bottom: 1em;">Lista de comercios</h4>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+<script src="~/Scripts/Views/MisComercios.js"></script>

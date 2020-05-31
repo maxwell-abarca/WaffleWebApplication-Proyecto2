@@ -1,0 +1,88 @@
+﻿@using WebApp.Models.Helpers;
+
+<html>
+<head>
+    <title>Registro</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/theme.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script>
+    <script src="~/Scripts/Views/RegistroUsuario.js"></script>
+    <script src="~/Scripts/Views/ControlActions.js"></script>
+
+</head>
+<body>
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="logo"></div>
+            </div>
+        </div>
+
+        <style>
+            .my-col {
+                margin-top: 50px;
+            }
+
+
+            .row {
+                margin-top: 50px;
+                margin-left: 50px;
+            }
+
+            .button-row {
+                margin-top: 40px;
+                margin-left: 100px;
+            }
+
+            .segundo_formulario {
+                margin-left: 50%;
+            }
+        </style>
+        <form id="registro_usuario">
+
+            <div class="row" id="primer_formulario">
+
+                <div class="col">
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_cedula", label: "Cédula", placeholder: "Ingrese la cédula", type: "number", columnDataName: "Cedula")
+                    <h5>Tipo de cédula</h5>
+                    @Html.CtrlRadio(viewName: "RegistroUsuario", id: "radio_nacional", label: "Nacional", type: "radio", value: "Nacional")
+                    @Html.CtrlRadio(viewName: "RegistroUsuario", id: "radio_extranjero", label: "Extranjero", type: "radio", value: "Extranjero")
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_nombre", label: "Nombre", placeholder: "Ingrese su nombre", type: "text", columnDataName: "Nombre")
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_primer_apellido", label: "Primer apellido", placeholder: "Ingrese su primer apellido", type: "text", columnDataName: "PrimerApellido")
+                </div>
+                <div class="col">
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_segundo_apellido", label: "Segundo apellido", placeholder: "Ingrese su segundo apellido", type: "text", columnDataName: "SegundoApellido")
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "date_fecha_nacimiento", label: "Fecha de nacimiento", placeholder: "Ingrese su fecha de nacimiento", type: "date", columnDataName: "FechaNacimiento")
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_correo", label: "Correo electrónico", placeholder: "Ingrese su correo electronico", type: "text", columnDataName: "Correo")
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_contrasena", label: "Contraseña", placeholder: "Ingrese su contraseña", type: "password", columnDataName: "Contrasena")
+                    <input id="txt_contrasena_2" class="form-control" type="password" placeholder="Ingrese su contraseña de nuevo" />
+                    <div class="row button-row">
+                        @Html.CtrlButton(viewName: "RegistroUsuario", id: "btnSiguiente", label: "Siguiente", onClickFunction: "Siguiente", style: "btn btn-primary spaceBtn")
+                    </div>
+                </div>
+                <div class="col my-col">
+                    <img id="imagen_profile" src="https://res.cloudinary.com/drlznypvr/image/upload/v1574586105/user-profile_dw7kau.svg" width="250px" style="border-radius: 50%;object-fit: cover;" />
+                    <div class="row my-row">
+                        @Html.CtrlButton(viewName: "RegistroUsuario", id: "btnCloudinary", label: "Upload image", onClickFunction: "showWidget", style: "btn btn-primary spaceBtn")
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="segundo_formulario">
+                <div class="col">
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_telefono", label: "Teléfono", placeholder: "Ingrese su número de teléfono", type: "text", columnDataName: "Telefono")
+                    @Html.CtrlInput(viewName: "RegistroUsuario", id: "txt_codigo", label: "Codigo de verificación", placeholder: "Ingrese el codigo de verificacion", type: "text", columnDataName: "CodigoVerificacion")
+                    @Html.CtrlButton(viewName: "RegistroUsuario", id: "btnVerificar", label: "Enviar código", onClickFunction: "Verificar", style: "btn btn-primary spaceBtn")
+                    @Html.CtrlButton(viewName: "RegistroUsuario", id: "btnIngresar", label: "Ingresar codigo", onClickFunction: "Ingresar", style: "btn btn-primary spaceBtn")
+                    @Html.CtrlButton(viewName: "RegistroUsuario", id: "btnAtras", label: "Atras", onClickFunction: "Atras", style: "btn btn-primary spaceBtn")
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

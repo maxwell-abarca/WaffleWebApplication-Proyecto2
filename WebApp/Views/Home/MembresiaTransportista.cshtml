@@ -1,0 +1,76 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelAdmin.cshtml";
+}
+<style>
+    .row {
+        margin-top: 1em;
+        margin-left: 1em;
+    }
+
+    .infoPersonal {
+        background-color: #f6f6f6;
+    }
+
+    .infoMembresia {
+        background-color: #ffffff;
+    }
+</style>
+
+<div class="jumbotron infoCard">
+    <div class="row ">
+        <div style="margin-top: 5px;">
+            <h1 class="registro">Información del transportista</h1>
+
+            <form id="gestion_transportista">
+                <div class="row" id="frmRegistro">
+                    <div class="col">
+                        <img src="" class="profilePhoto" id="profilePhoto">
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtNombre", label: "Nombre", placeholder: "", type: "text", columnDataName: "")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtPrimerApellido", label: "Primer apellido", placeholder: "", type: "text", columnDataName: "")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtSegundoApellido", label: "Segundo apellido", placeholder: "", type: "text", columnDataName: "")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtCedulaUsuario", label: "Cedula Usuario", placeholder: "", type: "number", columnDataName: "")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtCorreo", label: "Correo", placeholder: "", type: "number", columnDataName: "Correo")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtTelefono", label: "Teléfono", placeholder: "", type: "text", columnDataName: "Telefono")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "dateFechaNacimiento", label: "Fecha de nacimiento", placeholder: "", type: "date", columnDataName: "FechaNacimiento")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtTipoVehiculo", label: "Tipo de vehiculo", placeholder: "", type: "text", columnDataName: "TipoVehiculo")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtAmigable", label: "Eco amigable", placeholder: "", type: "text", columnDataName: "EcoAmigable")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtPlaca", label: "Placa", placeholder: "", type: "text", columnDataName: "Placa")
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="border-top my-5"></div>
+        <div style="margin-top: 5px;">
+            <h1 class="registro">Registrar Membresia</h1>
+
+            <form id="frmRegistro">
+                <div class="row" id="frmRegistro">
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtIdMembresia", label: "Codigo Membresia", placeholder: "", type: "number", columnDataName: "IdMembresia")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtFechaEmitida", label: "Fecha Emitida", placeholder: "", type: "date", columnDataName: "FechaEmitida")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtCostoMembresia", label: "Costo Membresia", placeholder: "", type: "number", columnDataName: "Costo")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtTarifaBase", label: "Tarifa Base", placeholder: "", type: "number", columnDataName: "TarifaBase")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtComision", label: "Comisión", placeholder: "", type: "number", columnDataName: "Comision")
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtMontoKilometraje", label: "Monto por kilometraje", placeholder: "", type: "number", columnDataName: "MontoKilometraje")
+                    </div>
+                    <div class="col">
+                        @Html.CtrlInput(viewName: "MembresiaTransportista", id: "txtImpuesto", label: "Impuesto", placeholder: "", type: "number", columnDataName: "Impuesto")
+                        @Html.CtrlButton(viewName: "MembresiaTransportista", id: "btnRegistro", label: "Registrar", onClickFunction: "Create", style: "btn btn-primary spaceBtn")
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

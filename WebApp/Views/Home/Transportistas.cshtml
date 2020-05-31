@@ -1,0 +1,45 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelAdmin.cshtml";
+}
+<script src="~/Scripts/Views/Transportistas.js"></script>
+
+
+<div class="container">
+    <style>
+        #btnActualizar {
+            margin-left: 38%;
+            margin-top: 2em;
+        }
+    </style>
+    <div class="jumbotron" style="background-color:#fff">
+        @Html.CtrlTable(viewName: "Transportistas", id: "tblTransportistas", title: "Transportistas", columnsTitle: "Cedula,Nombre,Primer Apellido,Segundo Apellido,Fecha de Nacimiento,Correo,Telefono,Estado,Tipo de Identificacion", ColumnsDataName: "Cedula,Nombre,PrimerApellido,SegundoApellido,FechaNacimiento,Correo,Telefono,Estado,TipoIdentificacion", onSelectFunction: "BindFields", colorHeader: "red")
+    </div>
+    <div class="jumbotron" style="background-color:#fff">
+        <form id="gestion_transportista">
+            <div class="row">
+                <div class="col">
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputCedula", label: "Cedula", placeholder: "", type: "number", columnDataName: "Cedula")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputNombre", label: "Nombre", placeholder: "", type: "text", columnDataName: "Nombre")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputPrimerApellido", label: "Primer Apellido", placeholder: "", type: "text", columnDataName: "PrimerApellido")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputSegundoApellido", label: "Segundo Apellido", placeholder: "", type: "text", columnDataName: "SegundoApellido")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputFechaNacimiento", label: "Fecha de Nacimiento", placeholder: "", type: "text", columnDataName: "FechaNacimiento")
+                </div>
+                <div class="col">
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputCorreo", label: "Correo", placeholder: "", type: "text", columnDataName: "Correo")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputTelefono", label: "Teléfono", placeholder: "", type: "text", columnDataName: "Telefono")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputEstado", label: "Estado", placeholder: "", type: "text", columnDataName: "Estado")
+                    @Html.CtrlInput(viewName: "Transportistas", id: "inputTipoIdentificacion", label: "Tipo de identificacion", placeholder: "", type: "text", columnDataName: "TipoIdentificacion")
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    @Html.CtrlButton(viewName: "Transportistas", id: "btnActualizar", label: "Actualizar", onClickFunction: "Actualizar", style: "btn btn-primary spaceBtn")
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

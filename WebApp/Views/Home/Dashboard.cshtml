@@ -1,0 +1,9 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    ViewBag.Title = "InicioComercio";
+    Layout = "~/Views/Shared/PanelComercio.cshtml";
+}
+<script src="~/Scripts/Views/Dashboard.js"></script>
+<h1>MARIANA</h1>
+@Html.CtrlChart("Dashboard", "myChart", "Comercio", "'Lunes','Martes'", "bar", onLoadFunction: "GetDataToChart")
+<h1>MARIANA</h1>

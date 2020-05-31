@@ -1,0 +1,32 @@
+﻿.my-col {
+    margin-top: 50px;
+}
+.row {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.button-row {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.registro {
+    font-weight: bold;
+    font-size: 2em;
+    padding-left: 1em;
+}
+.contenedor_imagen {
+    display: block;
+    width: 16em;
+    height: 16em;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+    padding: 1em;
+}
+
+.btnSpace {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}

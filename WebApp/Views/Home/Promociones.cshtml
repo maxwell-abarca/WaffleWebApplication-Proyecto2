@@ -1,0 +1,45 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelDuenoComercio.cshtml";
+}
+<script src="~/Scripts/Views/Promociones.js"></script>
+
+
+<div class="jumbotron col-md-12" style="background-color:#fff" id="card-container">
+    @Html.CtrlTable(viewName: "Promociones", id: "tblPromociones", title: "Promociones", columnsTitle: "Codigo,Producto,Descuento,Estado", ColumnsDataName: "Codigo,NombreProducto,Descuento,Estado", onSelectFunction: "BindFields", colorHeader: "red")
+
+</div>
+<div class="jumbotron" style="background-color:#fff">
+    <div class="container">
+        <style>
+            .row {
+                margin-bottom: 3em;
+            }
+        </style>
+        <form id="registro_promocion">
+            <div class="row">
+                <div class="col">
+                    @Html.CtrlInput(viewName: "Promociones", id: "inputCodigo", label: "Código", placeholder: "Ingrese el código", type: "text", columnDataName: "Codigo")
+                    @Html.CtrlInput(viewName: "Promociones", id: "inputDescuento", label: "Descuento", placeholder: "Ingrese el descuento", type: "number", columnDataName: "Descuento")
+                </div>
+                <div class="col">
+                    @Html.CtrlSelect(viewName: "Promociones", id: "selectProducto", label: "Seleccione el producto")
+                    @Html.CtrlSelect(viewName: "Promociones", id: "selectEstado", label: "Seleccione el estado")
+                </div>
+            </div>
+            <div class="row">
+                <div class="col" style="margin-left:33em">
+                    @Html.CtrlButton(viewName: "Promociones", id: "btnEliminar", label: "Eliminar", onClickFunction: "Eliminar", style: "btn btn-link link")
+                    @Html.CtrlButton(viewName: "Promociones", id: "btnActualizar", label: "Actualizar", onClickFunction: "Actualizar", style: "btn btn-link link")
+
+                    @Html.CtrlButton(viewName: "Promociones", id: "btnRegistrar", label: "Registrar", onClickFunction: "Registrar", style: "btn btn-primary spaceBtn")
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+</div>
+
+
+

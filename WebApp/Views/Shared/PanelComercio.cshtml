@@ -1,0 +1,93 @@
+﻿@using WebApp.Models.Helpers;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waffle</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/b50459588c.js" crossorigin="anonymous"></script>
+    <script src="~/Scripts/Views/ControlActions.js"></script>
+
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/theme.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/panel.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+        <div class="border-right" id="sidebar-wrapper">
+            <div class="sidebar-heading">Waffle</div>
+            <div class="list-group list-group-flush">
+                <span class="side-element">
+                    <i class="fas fa-home"></i>
+                    @Html.ActionLink("Inicio", "InicioComercio", "Home", new { @class = "side-a" })
+                </span>
+                <span class="side-element">
+                    <i class="fas fa-hamburger"></i>
+                    @Html.ActionLink("Productos", "MisProductos", "Home", new { @class = "side-a" })
+                </span>
+                <span class="side-element">
+                    <i class="fas fa-list"></i>
+                    @Html.ActionLink("Órdenes", "OrdenesComercio", "Home", new { @class = "side-a" })
+                </span>
+                <span class="side-element">
+                    <i class="fas fa-history"></i>
+                    @Html.ActionLink("Historial de ordenes", "HistorialOrdenesComercio", "Home", new { @class = "side-a" })
+                </span>
+                <span class="side-element">
+                    <i class="fas fa-ticket-alt"></i>
+                    @Html.ActionLink("Promociones", "Promociones", "Home", new { @class = "side-a" })
+                </span>
+                <button class="subside-element" type="button" data-toggle="collapse" data-target="#collapseReportes" aria-expanded="false" aria-controls="collapseExample">
+                    <i class="far fa-chart-bar"></i>Reportes
+                </button>
+                <div class="collapse" id="collapseReportes">
+                    <div class="card card-body" style="background-color: #F6F6F6;">
+                        @Html.ActionLink("Ingresos", "Ingresos de ventas", "Home", new { @class = "side-subElement" })
+                        @Html.ActionLink("Pedidos", "Pedidos totales", "Home", new { @class = "side-subElement" })
+                    </div>
+                </div>
+                <span class="side-element">
+                    <i class="fas fa-cog"></i>
+                    @Html.ActionLink("Configuración", "ConfigComercio", "Home", new { @class = "side-a" })
+                </span>
+                <span class="side-element">
+                    <i class="fas fa-arrow-left"></i>
+                    @Html.ActionLink("Volver al panel principal", "InicioDuenoComercio", "Home", new { @class = "side-a" })
+                </span>
+            </div>
+        </div>
+        <div id="page-content-wrapper">
+            <div class="navbar-content">
+                <button class="toggle" id="menu-toggle"><i class="fas fa-bars"></i></button>
+                @*<input class="searchbar" type="text" placeholder="" />*@
+                <div class="dropdown float-right">
+                    <p class="label" id="username"></p>
+                    <button class="btnSettings dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <img src="" class="userPhoto" id="userPhoto" />
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        @Html.ActionLink("Perfil", "PerfilComercio", "Home", new { @class = "dropdown-item" })
+                        @Html.ActionLink("Configuración", "ConfigComercio", "Home", new { @class = "dropdown-item" })
+                        <div class="dropdown-divider"></div>
+                        @Html.CtrlButton(viewName: "logout", id: "btnCerrarSesion", label: "Cerrar sesión", onClickFunction: "logout", style: "dropdown-item")
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <script src="~/Scripts/Views/SessionManager.js"></script>
+    <script src="~/Scripts/Views/Panel.js"></script>
+</body>
+</html>

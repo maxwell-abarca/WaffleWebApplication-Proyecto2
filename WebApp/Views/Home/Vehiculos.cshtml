@@ -1,0 +1,56 @@
+﻿@using WebApp.Models.Helpers;
+@{
+    Layout = "~/Views/Shared/PanelTransportista.cshtml";
+}
+<script src="~/Scripts/Views/Vehiculos.js"></script>
+<style>
+    select {
+        margin-top: 5px;
+    }
+</style>
+<div class="jumbotron" style="background-color:#fff">
+    @Html.CtrlTable(viewName: "Vehiculos", id: "tblVehiculos", title: "Vehiculos asociados a flotillas", columnsTitle: "Placa,Marca,Modelo,TipoVehiculo,Encargado,Flotilla", ColumnsDataName: "Placa,Marca,Modelo,TipoVehiculo,CedulaDueno,Nombre", onSelectFunction: "BindFields", colorHeader: "Red")
+</div>
+
+<div class="jumbotron" style="background-color:#fff">
+
+    <form id="registro_vehiculo">
+
+        <div class="row justify-content-center ">
+
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                @Html.CtrlInput(viewName: "Vehiculos", id: "inputPlaca", label: "Placa", placeholder: "", type: "text", columnDataName: "Placa")
+                @Html.CtrlInput(viewName: "Vehiculos", id: "inputMarca", label: "Marca", placeholder: "", type: "text", columnDataName: "Marca")
+                @Html.CtrlInput(viewName: "Vehiculos", id: "inputCedula", label: "Encargado del vehiculo", placeholder: "", type: "text", columnDataName: "CedulaDueno")
+
+            </div>
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                @Html.CtrlInput(viewName: "Vehiculos", id: "inputModelo", label: "Modelo", placeholder: "", type: "text", columnDataName: "Modelo")
+                @Html.CtrlSelect(viewName: "Vehiculos", id: "selectTipo", label: "Tipo de vehiculo")
+                @Html.CtrlSelect(viewName: "Vehiculos", id: "selectFlotilla", label: "Flotilla")
+            </div>
+        </div>
+    </form>
+
+    <div class="row justify-content-center" style="margin-top:1em">
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            @Html.CtrlButton(viewName: "Vehiculos", id: "btnRegistrar", label: "Registrar", onClickFunction: "RegistrarVehiculo", style: "btn btn-primary spaceBtn")
+        </div>
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+
+            @Html.CtrlButton(viewName: "Vehiculos", id: "btnActualizar", label: "Actualizar", onClickFunction: "ActualizarVehiculo", style: "btn btn-primary spaceBtn")
+        </div>
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            @Html.CtrlButton(viewName: "Vehiculos", id: "btnEliminar", label: "Eliminar", onClickFunction: "EliminarVehiculo", style: "btn btn-primary spaceBtn")
+        </div>
+    </div>
+
+
+
+</div>
+
+
+
+
+
+

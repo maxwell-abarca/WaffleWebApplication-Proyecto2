@@ -1,0 +1,641 @@
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csi.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csi.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\vbc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebApp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebGrease.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebApp.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\WebApp.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\csc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\csc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\csi.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\csi.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\vbc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Http.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebApp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebGrease.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebApp.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\WebApp.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Http.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\qa\Waffle\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\csc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\csc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\csi.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\csi.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\vbc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebApp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebGrease.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebApp.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\WebApp.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\csc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\csc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\csi.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\csi.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\vbc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebApp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebGrease.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebApp.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\WebApp.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Backup Waffle\Waffle\master\Waffle\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csi.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\csi.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\vbc.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\CoreAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebApp.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebGrease.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Twilio.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\SendGrid.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\CoreAPI.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\CoreAPI.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebApp.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\WebApp.dll.config
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Twilio.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\SendGrid.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\SendGrid.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\WaffleProyecto\Waffle\alejandro\Waffle\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebAPI.dll.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebAPI.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebAPI.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\csc.exe
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\csc.rsp
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\csi.exe
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\csi.rsp
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\vbc.exe
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\CoreAPI.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\DataAccess.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Entities.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Exceptions.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Http.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Razor.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebApp.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebGrease.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\SendGrid.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Twilio.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\CoreAPI.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\CoreAPI.dll.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\DataAccess.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Entities.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Exceptions.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebApp.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\WebApp.dll.config
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Http.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.Razor.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\SendGrid.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\SendGrid.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Twilio.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\WebAPI\obj\Debug\WebAPI.pdb

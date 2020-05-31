@@ -1,0 +1,156 @@
+﻿@using WebApp.Models.Helpers;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waffle - Inicio</title>
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/theme.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    <link href="~/Content/index.css" rel="stylesheet" />
+    <script src="~/Scripts/Views/ControlActions.js"></script>
+    <script src="~/Scripts/Views/Index.js"></script>
+</head>
+<body>
+    <div class="home">
+        <div class="container">
+            <div class="row align-items-center" style="height:10vh">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="logo"></div>
+                    @Html.ActionLink("Iniciar sesión", "InicioSesion", "Home", new { @class = "btn btn-link link" })
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center" style="height:90vh">
+                <div class="col-xs-3 col-sm-3 col-md-6 col-lg-6">
+                    <h1 class="mainTitle">La comida de tus restaurantes favoritos  a domicilio.</h1>
+                    @*@Html.ActionLink("Registrar", "RegistroUsuario", "Home", new { @class = "btn btn-primary" })*@
+                    @Html.CtrlButton(viewName: "Index", id: "btnRegistro", label: "Registrar", onClickFunction: "RegistroUsuario", style: "btn btn-primary")
+                </div>
+                <div class="col-xs-3 col-sm-3 col-md-6 col-lg-6">
+                    <div class="hamburger"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="foodPanel">
+        <script>
+            function getProductData(btn) {
+                var producto = btn.id;
+
+                var listaProductos = JSON.parse(sessionStorage.getItem('listaProductos'));
+                sessionStorage.setItem('producto', JSON.stringify(listaProductos[producto]));
+            }
+                $(document).ready(function () {
+                        var user = JSON.parse(sessionStorage.getItem('usuario'));
+                        var comercio = JSON.parse(sessionStorage.getItem('comercio'));
+                        function createStringFromTemplate(template, variables) {
+                            return template.replace(new RegExp("\{([^\{]+)\}", "g"), function(_unused, varName){
+                                return variables[varName];
+                            });
+                        }
+
+                        let retrieveAllProducts = () => {
+                            var ctrlActions = new ControlActions();
+                            var ImageSource;
+                            var CommerceName;
+                            var ProductName;
+                            var Price;
+
+                            ctrlActions.GetToApi('producto', callback = (response) => {
+                                for (var i = 0; i < 5; i++) {
+                                    sessionStorage.setItem('listaProductos', JSON.stringify(response));
+                                    var tmpProduct = response[i];
+
+                                    ImageSource = tmpProduct.Imagen;
+                                    ctrlActions.GetToApi('producto' , callback = (response) => {
+                                        CommerceName = response.NombreComercial;
+                                    }, errorFunction = () => {
+                                            console.log('No se encontro el comercio');
+                                    });
+                                    ProductName = tmpProduct.NombreProducto;
+                                    Price = tmpProduct.Precio;
+
+                                    function GetDynamicProducts() {
+                                        return createStringFromTemplate(
+                                            '@Html.CtrlCardProducto(viewName: "listaProductos", id: "{id}", ImageSource: "{ImageSource}", NombreProducto: "{ProductName}", NombreComercio: "{CommerceName}", PrecioProducto: "{Price}")',
+                                            {
+                                                ImageSource: ImageSource,
+                                                CommerceName: CommerceName,
+                                                ProductName: ProductName,
+                                                OnClickFunction: 'getProductData(this)',
+                                                Price: Price,
+                                                id: i
+                                            }
+                                        );
+                                    }
+                                    document.getElementById('foodContainer').insertAdjacentHTML("beforeend",GetDynamicProducts());
+                                }
+                            }, errorFunction = () => {
+                                    console.log('error');
+                            });
+                        }
+                        retrieveAllProducts();
+                    });
+        </script>
+        <div class="container" id="foodContainer">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <h1 class="title">¿Qué hay en el menú?</h1>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="usersPanel">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <h1 class="title">¡Se parte de nuestra comunidad!</h1>
+                </div>
+            </div>
+            <div class="row justify-content-between align-items-center">
+
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="card marginCard" style="max-width: 18rem;">
+                        <img src="~/Content/img/repartidor-index.png" class="card-img-top" alt="...">
+                        <div class="card-body" style="height: 20em;">
+                            <h5 class="card-title" style="font-weight:bolder; color: #707070">Repartidores</h5>
+                            <p class="card-text" style="font-weight:bold; color: #A2A2A2">Crea tú propio horario.</p>
+                            <p class="card-text" style="color: #A2A2A2">Sé tu propio jefe. Flexibilidad de horarios, ingresos competitivos y la oportunidad de conocer tu ciudad repartiendo al aire libre. Apúntate y en menos de 24h colabora con nosotros.</p>
+                            @Html.CtrlButton(viewName: "Index", id: "btnRegistroTransportista", label: "Unirme como repartidor", onClickFunction: "RegistroTransportista", style: "btn btn-primary btnSpace")
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="card marginCard" style="max-width: 18rem;">
+                        <img src="~/Content/img/comecio-index.png" class="card-img-top" alt="...">
+                        <div class="card-body" style="height: 20em;">
+                            <h5 class="card-title" style="font-weight:bolder; color: #707070">Negocios asociados</h5>
+                            <p class="card-text" style="font-weight:bold; color: #A2A2A2">Conoce a tus nuevos clientes.</p>
+                            <p class="card-text" style="color: #A2A2A2">Impulsa tu negocio colaborando con nosotros y benefíciate de nuestras herramientas, nuestra tecnología y nuestra base de clientes para tener la ciudad entera a tus pies.</p>
+                            @Html.CtrlButton(viewName: "Index", id: "btnRegistroDuenoComercio", label: "Colabora con nosotros", onClickFunction: "RegistroDuenoComercio", style: "btn btn-primary btnSpace")
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="card marginCard" style="max-width: 18rem;">
+                        <img src="~/Content/img/usuario-index.png" class="card-img-top" alt="...">
+                        <div class="card-body" style="height: 20em;">
+                            <h5 class="card-title" style="font-weight:bolder; color: #707070">Regístrate</h5>
+                            <p class="card-text" style="font-weight:bold; color: #A2A2A2">Ordena lo que se te antoje como quieras cuando quieras.</p>
+                            <p class="card-text" style="color: #A2A2A2">Encuentra diferentes ofertas todos los días de la semana y disfruta de una gran variedad de restaurantes cercanos a tu ubicación con los mejores precios del mercado.</p>
+                            @Html.CtrlButton(viewName: "Index", id: "btnRegistroUsuario", label: "Registrarme ahora mismo", onClickFunction: "RegistroUsuario", style: "btn btn-primary btnSpace")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

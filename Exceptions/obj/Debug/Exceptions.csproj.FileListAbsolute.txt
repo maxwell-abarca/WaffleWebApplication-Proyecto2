@@ -1,0 +1,32 @@
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\alejandro\Waffle\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\bin\Debug\DataAccess.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\bin\Debug\Entities.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\bin\Debug\DataAccess.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\bin\Debug\Entities.pdb
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\asolanor\Documents\Universidad\Proyecto 2\Waffle\master\Waffle\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\bin\Debug\DataAccess.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\bin\Debug\Entities.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\bin\Debug\DataAccess.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\bin\Debug\Entities.pdb
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Maxwell\Source\Workspaces\Waffle\maswell\Waffle\Exceptions\obj\Debug\Exceptions.pdb

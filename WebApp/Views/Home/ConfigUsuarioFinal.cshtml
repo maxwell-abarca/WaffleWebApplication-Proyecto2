@@ -1,0 +1,71 @@
+﻿@using WebApp.Models.Helpers;
+
+@{
+    ViewBag.Title = "ConfigUsuarioFinal";
+    Layout = "~/Views/Shared/PanelUsuarioFinal.cshtml";
+}
+
+<link href="~/Content/configUsuario.css" rel="stylesheet" />
+<script src="~/Scripts/Views/ControlActions.js"></script>
+<script src="~/Scripts/Views/ConfigUsuario.js"></script>
+
+<h2 class="dashboardTitle">Mi perfil - Configuración</h2>
+
+
+<div class="jumbotron infoCard">
+    <div class="row justify-content-center">
+        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+            <img src="" class="profilePhoto" id="profilePhoto">
+            @Html.CtrlButton("configUser", "btnPhoto", "Subir", "uploadPhoto", "btn btn-primary btnSpace")
+        </div>
+        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+            @Html.CtrlInput("configUser", "TipoIdentificacionUsuario", "Tipo de identificación", "", "text", "TipoIdentificacion")
+            @Html.CtrlInput("configUser", "CedulaUsuario", "Cédula", "", "text", "Cedula")
+            @Html.CtrlInput("configUser", "NombreUsuario", "Nombre", "", "text", "Nombre")
+            @Html.CtrlInput("configUser", "PrimerApellidoUsuario", "Primer apellido", "", "text", "PrimerApellido")
+
+        </div>
+        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+            @Html.CtrlInput("configUser", "SegundoApellidoUsuario", "Segundo apellido", "", "text", "SegundoApellido")
+            @Html.CtrlInput("configUser", "FechaNacimientoUsuario", "Fecha Nacimiento", "", "date", "FechaNacimiento")
+            @Html.CtrlInput("configUser", "EdadUsuario", "Edad", "", "number", "")
+            @Html.CtrlInput("configUser", "CorreoElectronicoUsuario", "Correo electrónico", "", "text", "Correo")
+            @Html.CtrlButton("configUser", "btnUpdate", "Actualizar información", "updateInfo", "btn btn-primary")
+        </div>
+    </div>
+    <div class="border-top my-5"></div>
+
+    <h3 class="dashboardTitle">Cambiar contraseña</h3>
+    @Html.CtrlInput("configUser", "ContrasenaNueva", "Ingrese la nueva contraseña", "", "password", "Contrasena")
+    @Html.CtrlInput("configUser", "ContrasenaVerificacion", "Ingrese de nuevo la contraseña", "", "password", "Contrasena")
+    @Html.CtrlButton("configUser", "btnUpdatePassword", "Actualizar contraseña", "newPassword", "btn btn-primary")
+    <p id="errorMessage" class="errorMessage">Vaya... parece que hubo un error, verifica que las dos contraseñas coincidan y que sea mayor de 8 carácteres.</p>
+    <p id="successMessage" class="successMessage">La contraseña ha sido actualizada.</p>
+</div>
+<div class="jumbotron" style="background-color:#fff">
+    <style>
+        #btnActualizarDireccion {
+            margin-left: 25em;
+        }
+    </style>
+    <div class="container">
+        <div class="row justify-content-between align-items-center">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 align-self-center">
+                <h1>Mi dirección</h1>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 align-self-center">
+                @Html.CtrlMap(viewName: "configUser", id: "map", style: "mapForm")
+            </div>
+        </div>
+        <div class="row justify-content-between align-items-center" style="margin-top:3em">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                @Html.CtrlButton(viewName: "configUser", id: "btnActualizarDireccion", label: "Actualizar dirección", onClickFunction: "ActualizarDireccion", style: "btn btn-primary spaceBtn")
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
+
+

@@ -1,0 +1,58 @@
+﻿@using WebApp.Models.Helpers;
+<script src="~/Scripts/Views/vRegistroProducto.js"></script>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<link href="~/Content/reset.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="~/Content/theme.css" rel="stylesheet" />
+<link href="~/Content/styles.css" rel="stylesheet" />
+<script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script>
+<script src="~/Content/Chart.min.js"></script>
+<script src="~/Scripts/Views/ControlActions.js"></script>
+<link href="~/Content/RegistroProducto.css" rel="stylesheet" />
+
+@{
+    Layout = "~/Views/Shared/PanelComercio.cshtml";
+}
+<style>
+    .my-col {
+        margin-top: 50px;
+    }
+
+
+    .row {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+
+    .button-row {
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+</style>
+<div style="margin-top: 5px;">
+        <h1 class="registro">Registro de Productos</h1>
+
+    <form id="frmRegistro">
+        <div class="row" id="formulario">
+            <div class="col">
+                @Html.CtrlInput(viewName: "vRegistroProducto", id: "txtIdProducto", label: "Codigo del Producto", placeholder: "Ingrese el codigo", type: "text", columnDataName: "IdProducto")
+                @Html.CtrlInput(viewName: "vRegistroProducto", id: "txtNombreProducto", label: "NombreProducto", placeholder: "Ingrese el nombre del producto", type: "text", columnDataName: "NombreProducto")
+                @Html.CtrlInput(viewName: "vRegistroProducto", id: "txtIdCategoria", label: "Categoria", placeholder: "Ingrese la categoria", type: "text", columnDataName: "IdCategoria")
+                @Html.CtrlInput(viewName: "vRegistroProducto", id: "txtPrecio", label: "Precio", placeholder: "Ingrese la cédula", type: "number", columnDataName: "Precio")
+            </div>
+            <div class="col">
+                <div class="col my-col" id="img">
+                    <img id="imagen_profile" class="contenedor_imagen" />
+                    @Html.CtrlButton(viewName: "vRegistroProducto", id: "btnCloudinary", label: "Seleccionar imagen", onClickFunction: "showWidget", style: "btn btn-primary spaceBtn")
+                    <div style="margin-top:1em">
+                        @Html.CtrlButton(viewName: "vRegistroProducto", id: "btnRegistro", label: "Registrar Producto", onClickFunction: "Create", style: "btn btn-primary")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+

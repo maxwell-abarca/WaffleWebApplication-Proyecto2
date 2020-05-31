@@ -1,0 +1,49 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    overflow-y: scroll
+}
+
+.logo {
+    background-image: url(/Content/img/Logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain;
+    width: 6em;
+    height: 5.5em;
+    display: inline-block;
+    float: left;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.btnCenter {
+    margin: 0 auto;
+    margin-top: 3em;
+    display: block;
+}
+
+.imgUpload {
+    border-radius: 50%;
+    width: 15em;
+    height: 15em;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.btnLink {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+
+@media (max-width: 768px) {
+    .svgImage {
+        display: none;
+    }
+}
